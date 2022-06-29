@@ -46,16 +46,17 @@ To get this running, you need to:
 1. Install dependencies:
 ```
 npm install
-
 ```
 
 2. Package linking for typescript:
-
+```
 npm link typescript
+```
 
 3. Run it:
-
+```
 npm run start
+```
 
 4. Visit the page via http://localhost:8080/
 
