@@ -74,7 +74,7 @@ const Giphy = () => {
       {renderError()}
 
       <h1>Giphy Search Interface</h1>
-      <p>Developed for coding test @ MindAtlas</p>
+      <p>Developed for coding test @ MindAtlas by Yang Song</p>
       <form className="form-inline justify-content-center m-2">
         <input
           value={search}
