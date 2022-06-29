@@ -1,0 +1,23 @@
+.gifs {
+  margin: 0 auto;
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.gif {
+  display: table;
+  height: 140px;
+  width: 200px;
+  table-layout: auto;
+  float: left;
+  padding-left: 6px;
+  padding-right: 6px;
+  margin-bottom: 12px;
+}
+
+h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+
