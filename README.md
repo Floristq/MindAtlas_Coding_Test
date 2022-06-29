@@ -39,7 +39,7 @@ This is a take home test, that said don't spend hours perfecting every aspect of
 
 Send it back to us via email with a repository url
 
-Yang's comment:
+### Yang(Author)'s comment:
 
 To get this running, you need to:
 
