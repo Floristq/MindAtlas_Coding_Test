@@ -1,5 +1,5 @@
 import * as React from 'react';
-import Giphy from "./components/Giphy";
+import Giphy from "./components/GiphySearcher";
 import "./styles.css";
 const App = () => {
   return (
