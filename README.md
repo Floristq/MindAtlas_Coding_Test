@@ -67,7 +67,8 @@ My npm version: 6.14.16
 ## Credits
 
 Made with [createapp.dev](https://createapp.dev/)
-bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
+
+Bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 [1]: https://developers.giphy.com/dashboard/?create=true
 [2]: https://www.npmjs.com/package/giphy
