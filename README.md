@@ -39,43 +39,31 @@ This is a take home test, that said don't spend hours perfecting every aspect of
 
 Send it back to us via email with a repository url
 
-## Building and running on localhost
+Yang's comment:
 
-First install dependencies:
+To get this running, you need to:
 
-```sh
+1. Install dependencies:
+
 npm install
-```
 
-To start a local dev environment:
+2. Package linking for typescript:
 
-```sh
+npm link typescript
+
+3. Run it:
+
 npm run start
-```
 
-To create a production build:
+4. Visit the page via http://localhost:8080/
 
-```sh
-npm run build-prod
-```
-
-To create a development build:
-
-```sh
-npm run build-dev
-```
-
-### Running
-
-```sh
-npm run start
-```
-
-Visit the page via http://localhost:8080/
+My node.js version: v14.19.3
+My npm version: 6.14.16
 
 ## Credits
 
 Made with [createapp.dev](https://createapp.dev/)
+bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 [1]: https://developers.giphy.com/dashboard/?create=true
 [2]: https://www.npmjs.com/package/giphy
