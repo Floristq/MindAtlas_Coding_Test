@@ -44,8 +44,10 @@ Send it back to us via email with a repository url
 To get this running, you need to:
 
 1. Install dependencies:
-
+```
 npm install
+
+```
 
 2. Package linking for typescript:
 
